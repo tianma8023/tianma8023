@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yoo, I'm Tianma 👋
 
 <!--
 **tianma8023/tianma8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Tianma's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianma8023&count_private=true&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/tianma8023/tianma8023)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianma8023&hide=html&layout=compact)
